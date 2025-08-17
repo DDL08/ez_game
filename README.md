@@ -12,10 +12,15 @@ https://crpi-od6n6pziphyfcwhy.cn-hangzhou.personal.cr.aliyuncs.com/ddl08/01:21
 
 前端aes加密，后端aes解密，是个sql注入
 
-# ezupload(2025-8月SNCTF)
+# session-upload(2025-8月SNCTF)
 ghcr.io/ddl08/php_upload:5
 
 session文件上传题目
 
 
-# 
+# ez_upload
+
+
+# flask-sql
+
+
