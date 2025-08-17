@@ -10,10 +10,22 @@ fcg.zip(大猴pk【有多种解法】+功德无量小游戏，未打包成docker
 
 https://crpi-od6n6pziphyfcwhy.cn-hangzhou.personal.cr.aliyuncs.com/ddl08/01:21
 
+https://github.com/DDL08/ez_game/blob/main/wp/25.1I_LOVE_Milk_Dragon.pdf
+
 前端aes加密，后端aes解密，是个sql注入
 
+
+
+# 渗透赛-1(2025-7月内部渗透赛)
+
+https://github.com/DDL08/ez_game/blob/main/wp/%E6%B8%97%E9%80%8F%E8%B5%9B7.21.pdf
+
+
 # session-upload(2025-8月SNCTF)
+
 ghcr.io/ddl08/php_upload:5
+
+https://github.com/DDL08/ez_game/blob/main/wp/25.8.8%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0-session.pdf
 
 session文件上传题目
 
