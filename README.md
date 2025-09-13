@@ -1,4 +1,4 @@
-# 这是我的出题记录，部分未上架
+# 这是我的出题记录，部分未上架，部分只放了wp在wp文件夹下
 
 
 # ez_game
@@ -33,9 +33,13 @@ https://github.com/DDL08/ez_game/blob/main/wp/25.8.8%E6%96%87%E4%BB%B6%E4%B8%8A%
 session文件上传题目
 
 
-# ez_upload
+# 25.8.17ez_upload
 
 
-# flask-sql
+# 25.8.17flask-sql
 
 
+# 25.9.1Resume-中等-XSS
+
+
+# 25.8.18File_Search_Portal-简单php
