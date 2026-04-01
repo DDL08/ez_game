@@ -43,3 +43,24 @@ session文件上传题目
 
 
 # 25.8.18File_Search_Portal-简单php
+
+
+# EZ_resume_2.0-2026-3-2-中等，XSS
+
+
+这几个容器的id应该在40左右，忘了具体是哪个了，由附件自己启吧↓
+
+
+crpi-od6n6pziphyfcwhy.cn-hangzhou.personal.cr.aliyuncs.com/ddl08/01:42
+
+
+# python沙箱_SSTI-2026-2-23-中等，python沙箱逃逸
+
+
+crpi-od6n6pziphyfcwhy.cn-hangzhou.personal.cr.aliyuncs.com/ddl08/01:40
+
+
+# XCX-2026-2-24-中等，小程序题目，源码里泄露敏感信息，后台越权，其他端口有cve
+
+
+
